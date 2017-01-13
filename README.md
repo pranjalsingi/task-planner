@@ -20,8 +20,11 @@ The test cases are arranged in the level of the difficulty from top to bottom.
 
 # execution
 
-load structure - (load structure.lisp)\n
-load database - (load database.lisp)\n
-load initial - (load initial.lisp)\n
+load structure - (load structure.lisp)
+
+load database - (load database.lisp)
+
+load initial - (load initial.lisp)
+
 execute testcases - (load test.lisp)
  
